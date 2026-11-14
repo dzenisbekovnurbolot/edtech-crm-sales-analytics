@@ -1,0 +1,6 @@
+# Сырые данные компании не публикуются
+data/*.xlsx
+data/*.csv
+!data/aggregates/
+__pycache__/
+.ipynb_checkpoints/
